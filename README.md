@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 House Price Prediction 🏠📈
 
 This project uses machine learning — specifically Linear regression as well implementing also steps for Lasso Regression and Ridge Regression — to predict house prices based on various features like bedrooms, floors, waterfront and more. It includes data preprocessing, and model evaluation.
@@ -20,3 +21,7 @@ How to Run
 
 Author: BYRON MUKISA 
 Date: May 2025  
+=======
+# House_Price_Prediction
+A machine learning project using linear regression, L1 and L2 techniques to predict house prices.
+>>>>>>> 6de494e3115948a042a8ce74e1bd7478f724bbed
